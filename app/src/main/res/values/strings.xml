@@ -4,7 +4,7 @@
     <string name="score_team_a">0</string>
     <string name="team_fouls_label">Team Fouls</string>
     <string name="team_fouls_team_a">0</string>
-    <string name="timeouts_label">Timeouts</string>
+    <string name="timeouts_label">Time Outs</string>
     <string name="timeouts_team_a">0</string>
     <string name="three_pointer_label">+3 Points</string>
     <string name="two_pointer_label">+2 Points</string>
@@ -12,4 +12,6 @@
     <string name="team_foul_btn_label">Team Foul</string>
     <string name="timeout_btn_label">Timeout</string>
     <string name="team_a_label">Team A</string>
+    <string name="team_b_label">Team B</string>
+    <string name="reset_btn_label">Reset</string>
 </resources>
